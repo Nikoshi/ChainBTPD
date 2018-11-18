@@ -3,7 +3,7 @@
 # If you chain Pokemon you can get Berries and Candy
 # You can sell these things! You get 10P$ for a Candy and 100P$ for a Berry!
 # With that money you can buy new Pokeballs!
-# At the start your Profit isgoint to be in the negatives but give it some time!
+# At the start your Profit is going to be in the negatives but give it some time!
 # Lets Go!
 # German: 
 # Wilkommen im ChainBTPD ProfitRechner!
