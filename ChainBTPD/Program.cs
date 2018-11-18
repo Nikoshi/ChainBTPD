@@ -18,8 +18,8 @@ namespace ChainBTPD
                     Console.WriteLine("Welcome to the ChainBTPD ProfitCalculator!");
                     Console.WriteLine("If you chain Pokemon you can get Berries and Candy");
                     Console.WriteLine("You can sell these things! You get 10P$ for a Candy and 100P$ for a Berry!");
-                    Console.WriteLine("With that money ypu can buy new Pokeballs!");
-                    Console.WriteLine("At the start your Profit isgoint to be in the negatives but give it some time!");
+                    Console.WriteLine("With that money you can buy new Pokeballs!");
+                    Console.WriteLine("At the start your Profit is going to be in the negatives but give it some time!");
                     Console.WriteLine("Lets Go!");
                     Console.WriteLine("Which Pokemon are you chaining?");
                     var Mon = Console.ReadLine();
