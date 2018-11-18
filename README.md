@@ -13,3 +13,4 @@
 # Am Anfang wirst du Minus machen aber gib der Methode etwas Zeit!
 # Lets Go!
 # Release: https://github.com/PikaFan123/ChainBTPD/releases/tag/v1.2
+# We are currently programming a Discord Bot version for this!
