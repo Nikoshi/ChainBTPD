@@ -70,7 +70,7 @@ namespace ChainBTPD
                         Console.WriteLine("Wie viel Candy (1 Beere = 10 Candy, einmal danebenwerfen bedeutet du musst Bonbons abziehen!(-10=Pokeball, -30=Superball, -50=Hyperball)) hast du bekommen?");
                         npg = long.Parse(Console.ReadLine());
                         np2g = npg * 10;
-                        ChainBTPD = (ChainBTPDg + np2g) - fangballkosteng;
+                        ChainBTPDg = (ChainBTPDg + np2g) - fangballkosteng;
                         Console.WriteLine("Du hast " + ChainBTPDg + " Poke$ Profit gemacht");
 
 
