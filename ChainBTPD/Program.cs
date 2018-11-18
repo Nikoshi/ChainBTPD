@@ -8,7 +8,7 @@ namespace ChainBTPD
         {
             
             Console.WriteLine("Please choose your language.(1=English)");
-            Console.WriteLine("Bitte wähle deine Sprache(2=Deutsch)");
+            Console.WriteLine("Bitte wähle deine Sprache.(2=Deutsch)");
             Console.Write("Language:");
             string sel = Console.ReadLine();
             int selnum = int.Parse(sel);
@@ -35,7 +35,8 @@ namespace ChainBTPD
                     for (var i = 1; i <= chainlength; i++)
                     {
                         Console.WriteLine(Mon + " " + i);
-                        Console.WriteLine("How much Candy (1 Beery = 10 Candy, one throw without catch means minus!(-10=Pokeball, -30=Greatball, -50=all)) did you get for this Pokemon?");
+                        Console.WriteLine();
+                        Console.Write("How much Candy (1 Berry = 10 Candy, one throw without catch means minus!(-10=Pokeball, -30=Greatball, -50=all)) did you get for this Pokemon?");
                         np = long.Parse(Console.ReadLine());
                         np2 = np * 10;
                         ChainBTPD = (ChainBTPD + np2) - fangballkosten;
@@ -67,7 +68,8 @@ namespace ChainBTPD
                     for (var i = 1; i <= chainlengthg; i++)
                     {
                         Console.WriteLine(Mong + " " + i);
-                        Console.WriteLine("Wie viel Candy (1 Beere = 10 Candy, einmal danebenwerfen bedeutet du musst Bonbons abziehen!(-10=Pokeball, -30=Superball, -50=Hyperball)) hast du bekommen?");
+                        Console.WriteLine();
+                        Console.Write("Wie viel Candy (1 Beere = 10 Candy, einmal danebenwerfen bedeutet du musst Bonbons abziehen!(-10=Pokeball, -30=Superball, -50=Hyperball)) hast du bekommen?");
                         npg = long.Parse(Console.ReadLine());
                         np2g = npg * 10;
                         ChainBTPDg = (ChainBTPDg + np2g) - fangballkosteng;
