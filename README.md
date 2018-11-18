@@ -12,4 +12,4 @@
 # So kannst du für die Kosten des Pokeballs aufkommen!
 # Am Anfang wirst du Minus machen aber gib der Methode etwas Zeit!
 # Lets Go!
-# Release: https://github.com/PikaFan123/ChainBTPD/releases/tag/v1.1
+# Release: https://github.com/PikaFan123/ChainBTPD/releases/tag/v1.2
