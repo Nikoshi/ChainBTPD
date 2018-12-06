@@ -17,7 +17,7 @@ namespace ChainBTPD
             long chainlength;
             
             // Print out welcome text
-            foreach (string text in translation.welcome_text)
+            foreach(var text in translation.welcome_text)
                 Console.WriteLine(text);
             Console.WriteLine(translation.lets_go);
 
@@ -43,7 +43,7 @@ namespace ChainBTPD
         }
 
         // Create translation from json file
-        private Translation setupTranslation()
+        private static Translation setupTranslation()
         {
             Console.WriteLine("1: English (Englisch)");
             Console.WriteLine("2: German (Deutsch)");
