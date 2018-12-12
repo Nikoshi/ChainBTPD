@@ -1,7 +1,0 @@
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Release\ChainBTPD.exe.config
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Release\ChainBTPD.exe
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Release\ChainBTPD.pdb
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Release\ChainBTPD.csproj.CoreCompileInputs.cache
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Release\ChainBTPD.exe
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Release\ChainBTPD.pdb
-C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Release\ChainBTPD.csprojAssemblyReference.cache
