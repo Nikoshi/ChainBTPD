@@ -1,0 +1,18 @@
+{
+    "welcome_text": [
+        "Wilkommen im ChainBTPD ProfitRechner!",
+        "Wenn du Pokemon chainst bekommst du Beeren und Bonbons",
+        "Diese Dinge kannst du verkaufen! Du bekommst 10 P$ für ein Candy und 100 für eine Beere!",
+        "So kannst du für die Kosten des Pokeballs aufkommen!",
+        "Am Anfang wirst du Minus machen aber gib der Methode etwas Zeit!",
+    ],
+    "lets_go":"Lets Go!",
+    "which_pokemon":"Welches Pokemon chainst du? ",
+    "how_much_does":"Wieviel kostet dein Fangball? (100=Pokeball, 300=Superball, 500=Hyperball) ",
+    "how_long_are_you":"Wie lang wirst du chainen? ",
+    "how_much_candy":"Wie viel Candy (1 Beere = 10 Candy, einmal danebenwerfen bedeutet du musst Bonbons abziehen!(-10=Pokeball, -30=Superball, -50=Hyperball)) hast du bekommen? ",
+    "you_made":"Du hast {0} Poke$ Profit gemacht",
+    "errortext":"Diese Zahl ist zu groß!",
+  "autoset128": "Diese Nummer war zu groß, daher wurde die Chainlänge auf 128 gesetzt.",
+  "autoset100": "Dieser Nummer war zu groß, daher werden die Kosten eines normalen Pokeballs genutzt."
+}

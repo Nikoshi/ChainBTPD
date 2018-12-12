@@ -1,0 +1,18 @@
+{
+  "welcome_text": [
+    "Welcome to the ChainBTPD ProfitCalculator!",
+    "If you chain Pokemon you can get Berries and Candy",
+    "You can sell these things! You get 10P$ for a Candy and 100P$ for a Berry!",
+    "With that money you can buy new Pokeballs!",
+    "At the start your Profit is going to be in the negatives but give it some time!"
+  ],
+  "lets_go": "Lets Go!",
+  "which_pokemon": "Which Pokemon are you chaining? ",
+  "how_much_does": "How much does you Catchball cost? (100=Pokeball, 300=Greatball, 500=Ultraball) ",
+  "how_long_are_you": "How long are you going to chain? ",
+  "how_much_candy": "How much Candy (1 Berry = 10 Candy, one throw without catch means minus!(-10=Pokeball, -30=Greatball, -50=all)) did you get for this Pokemon? ",
+  "you_made": "You made {0} Poke$ Profit",
+  "errortext": "This number is to big!",
+  "autoset128": "That number is to big. Because of that the Chainlength 128 will be used!",
+  "autoset100": "That Number was to big. Because of that the Cost of a normal Pokeball will be used."
+}
