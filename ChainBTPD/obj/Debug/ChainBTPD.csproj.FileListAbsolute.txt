@@ -1,0 +1,7 @@
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Debug\ChainBTPD.csprojAssemblyReference.cache
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Debug\ChainBTPD.csproj.CoreCompileInputs.cache
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Debug\ChainBTPD.exe.config
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Debug\ChainBTPD.exe
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\bin\Debug\ChainBTPD.pdb
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Debug\ChainBTPD.exe
+C:\Users\PikaFan123\source\repos\ChainBTPD\ChainBTPD\obj\Debug\ChainBTPD.pdb
